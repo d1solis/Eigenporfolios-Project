@@ -16,7 +16,7 @@ This project explores the application of linear algebra, specifically Singular V
 - **Jupyter Notebook:** For running and sharing code.
 
 ## Project Contributors
-- **[Dalila Solis](https://github.com/d1solis):** 
+- **[Dalila Solis](https://github.com/d1solis)** 
 - Alex Bachrach
 - Elena Conway
 - Aaron Lo
